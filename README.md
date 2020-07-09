@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-Welcome to my profile. I'm a WIP Full Stack Developer. I love to watch movies and tv-shows in my free time. 
+Welcome to my profile. I'm a WIP Full Stack Developer. I love to watch movies and tv-shows in my free time. Check out some of projects below.
 
 ### Languages I use and know
 - Python
