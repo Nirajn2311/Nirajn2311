@@ -10,6 +10,7 @@ Welcome to my profile. I'm a WIP Full Stack Developer. I love to watch movies an
 
 ### Frameworks
 - Vue.js
+- Bootstrap
 - React.js (still learning 😅)
 
 ### Where to find me or contact me
