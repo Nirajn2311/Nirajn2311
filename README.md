@@ -1,10 +1,11 @@
 ### Hello there 👋
 
-Welcome to my profile. I'm a WIP Full Stack Developer. I love to watch movies and tv-shows in my free time. Check out some of projects below.
+Welcome to my profile. I'm a Discord bot developer and WIP Full Staack Developer. I love to watch movies and tv-shows in my free time. Check out some of projects below.
 
 ### Languages I use and know
 - Python
 - JavaScript
+- SQL
 - HTML and CSS
 - C++ and C
 
@@ -16,6 +17,7 @@ Welcome to my profile. I'm a WIP Full Stack Developer. I love to watch movies an
 
 ### Where to find me or contact me
 - 📫 nirajnandish@icloud.com
+- <img src="https://cdn.discordapp.com/attachments/734783680366641314/735153539814522943/discord.png" alt="discord logo" width="20" height="20"> SilverFox#6699
 
 Contact me if you are interested in collaborating a project with me. 
 <!--
