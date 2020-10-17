@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-Welcome to my profile. I'm a Discord bot developer and WIP Full Staack Developer. I love to watch movies and tv-shows in my free time. Check out some of projects below.
+Welcome to my profile. I'm a Discord bot developer and WIP Full Stack Web Developer. I love to watch movies and tv-shows in my free time. Check out some of projects below.
 
 ### Languages I use and know
 - Python
