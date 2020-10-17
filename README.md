@@ -12,7 +12,7 @@ Welcome to my profile. I'm a WIP Full Stack Developer. I love to watch movies an
 - Vue.js
 - Bootstrap
 - Django
-- React.js (still learning 😅)
+- React.js (someday hopefully will finish learning 😅)
 
 ### Where to find me or contact me
 - 📫 nirajnandish@icloud.com
