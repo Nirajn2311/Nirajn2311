@@ -17,7 +17,8 @@ Welcome to my profile. I'm a Discord bot developer and WIP Full Stack Web Develo
 
 ### Where to find me or contact me
 - 📫 nirajnandish@icloud.com
-- <img src="https://cdn.discordapp.com/attachments/734783680366641314/735153539814522943/discord.png" alt="discord logo" width="20" height="20"> SilverFox#6699
+- LinkedIn - [Niraj Nandish](http://linkedin.com/in/niraj-n-656761191)
+- Discord - SilverFox#6699
 
 Contact me if you are interested in collaborating a project with me. 
 <!--
