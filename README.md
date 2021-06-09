@@ -1,19 +1,21 @@
 ### Hello there 👋
 
-Welcome to my profile. I'm a Discord bot developer and WIP Full Stack Web Developer. I love to watch movies and tv-shows in my free time. Check out some of projects below.
+Welcome to my profile. I'm a WIP Full Stack Web Developer and a Discord Bot Developer. I love to watch movies and tv-shows in my free time. Check out some of projects below.
 
 ### Languages I use and know
+- JS/TS
 - Python
-- JavaScript
 - SQL
 - HTML and CSS
 - C++ and C
 
-### Frameworks
-- Vue.js
+### Frameworks/Libraries
+- React.js
+- Next.js
 - Bootstrap
-- Django
-- React.js (someday hopefully will finish learning 😅)
+- Django/Flask
+- Discord.py and Discord.js
+- 
 
 ### Where to find me or contact me
 - 📫 nirajnandish@icloud.com
