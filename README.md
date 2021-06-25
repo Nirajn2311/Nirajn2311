@@ -10,15 +10,14 @@ Welcome to my profile. I'm a WIP Full Stack Web Developer and a Discord Bot Deve
 - C++ and C
 
 ### Frameworks/Libraries
-- React.js
 - Next.js
+- React.js
 - Bootstrap
 - Django/Flask
 - Discord.py and Discord.js
-- 
 
 ### Where to find me or contact me
-- 📫 nirajnandish@icloud.com
+- Email - nirajnandish@icloud.com
 - LinkedIn - [Niraj Nandish](http://linkedin.com/in/niraj-n-656761191)
 - Discord - SilverFox#6699
 
