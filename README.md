@@ -1,17 +1,19 @@
-### Hello there 👋
+### Hello there 🖖
 
-Welcome to my profile. I'm a WIP Full Stack Web Developer and a Discord Bot Developer. I love to watch movies and tv-shows in my free time. Check out some of projects below.
+Welcome to my profile. I'm a WIP Full Stack Web Developer and a Discord Bot Developer. I'm either reading a good novel or geeking out to sci-fi stuff in my free time. Check out some of projects below.
+
+### Currently I am
+- Working on freeCodeCamp Mobile App
+- Learning Flutter and Gatsby
 
 ### Languages I use and know
 - JS/TS
 - Python
 - SQL
 - HTML and CSS
-- C++ and C
 
 ### Frameworks/Libraries
-- Next.js
-- React.js
+- Next.js/React.js
 - Bootstrap
 - Django/Flask
 - Discord.py and Discord.js
@@ -21,18 +23,8 @@ Welcome to my profile. I'm a WIP Full Stack Web Developer and a Discord Bot Deve
 - LinkedIn - [Niraj Nandish](http://linkedin.com/in/niraj-n-656761191)
 - Discord - SilverFox#6699
 
-Contact me if you are interested in collaborating a project with me. 
-<!--
-**Nirajn2311/Nirajn2311** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Contact me if you are interested in collaborating a project with me.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nirajn2311&hide=stars&count_private=true">
+</p>
