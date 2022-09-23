@@ -4,7 +4,8 @@ Welcome to my profile. I'm a WIP Full Stack Web Developer and a Discord Bot Deve
 
 ### Currently I am
 - Working on freeCodeCamp Mobile App
-- Learning Flutter and Gatsby
+- Learning Flutter
+- Preparing for AWS Cloud Practitioner Certificate 
 
 ### Languages I use and know
 - JS/TS
